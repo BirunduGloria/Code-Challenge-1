@@ -23,5 +23,5 @@ if (!isNaN(cups) && cups > 0) {
   const message = calculateChaiIngredients(cups);
   console.log(message);
 } else {
-  console.log("Please enter a valid number.");
+  console.log ("Please enter a valid number.");
 }
